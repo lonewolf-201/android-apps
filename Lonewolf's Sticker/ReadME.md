@@ -31,44 +31,81 @@ Step 5:-
 Step 6:-
         Go to your android studio update the JSON file in assests folder.
         do the editing as given below:-
-              {
+     {
       "identifier": "*name of the coressponding folder in assest that has the sticker*",
+      
       "name": "*name you would like to show in the whatsapp*",
+      
       "publisher": "*publisher name*",
+      
       "tray_image_file": "*the image to show in the whatsapp sticker app*",
+      
       "publisher_email":"*ur email*",
+      
       "publisher_website": "*ur website*",
+      
       "privacy_policy_website": "",
+      
       "license_agreement_website": "",
+      
       "stickers": [
+      
         {
+        
           "image_file": "Panda_1.webp",
+          
           "emojis": ["☕","🙂"]
+          
         },
+        
         {
+        
           "image_file": "Panda_2.webp",
+          
           "emojis": ["😄","😀"]
+          
         },
+        
         {
+        
           "image_file": "Panda_3.webp",
+          
           "emojis": ["😆","😂"]
+          
         },
+        
         {
+        
           "image_file": "Panda_4.webp",
+          
           "emojis": ["😩","😰"]
+          
         },
+        
         {
+        
           "image_file": "Panda_5.webp",
+          
           "emojis": ["😭","💧"]
+          
         },
+        
         {
+        
           "image_file": "Panda_6.webp",
+          
           "emojis": ["😍","♥"]
+          
         },
+        
         {
+        
           "image_file": "Panda_7.webp",
+          
           "emojis": ["💔","👎"]
+          
         }
+        
         compile and build the project and the app should be in 
         app>src>main>build>app-debug.apk
         install and have fun.

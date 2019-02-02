@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06d9b872-d435-42ed-ad0a-4a5b80446043" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/Lonewolf's Sticker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Lonewolf's Sticker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/01_Cuppy_smile.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/02_Cuppy_lol.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/03_Cuppy_rofl.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/04_Cuppy_sad.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/05_Cuppy_cry.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/06_Cuppy_love.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/07_Cuppy_hate.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/08_Cuppy_lovewithmug.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/09_Cuppy_lovewithcookie.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/10_Cuppy_hmm.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/11_Cuppy_upset.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/12_Cuppy_angry.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/13_Cuppy_curious.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/14_Cuppy_weird.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/15_Cuppy_bluescreen.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/16_Cuppy_angry.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/17_Cuppy_tired.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/18_Cuppy_workhard.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/19_Cuppy_shine.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/20_Cuppy_disgusting.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/21_Cuppy_hi.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/22_Cuppy_bye.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/23_Cuppy_greentea.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/24_Cuppy_phone.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/25_Cuppy_battery.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker19.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker20.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker21.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/10/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker19.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker20.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker21.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker23.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/11/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/12/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker19.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker20.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker21.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker23.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/13/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker19.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker20.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker21.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker23.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker24.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/14/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/15/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/Panda_9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/2/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/boo_9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/3/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/4/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/4/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/4/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/4/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/4/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/4/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/4/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/4/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/4/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker19.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker20.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker21.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker23.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker24.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker19.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker20.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker21.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker23.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker24.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker19.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker20.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker21.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker23.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/7/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker19.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker20.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker21.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker23.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/8/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker19.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker20.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker21.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker23.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/sticker9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/9/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/AddStickerPackActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/BaseActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/BottomFadingRecyclerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/ContentFileParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/EntryActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/Sticker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerContentProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerPack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerPackDetailsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerPackInfoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerPackListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerPackListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerPackListItemViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerPackLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerPackValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerPreviewAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/StickerPreviewViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lonewolf/stickers/WhitelistCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/sticker_3rdparty_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/sticker_3rdparty_added.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/sticker_3rdparty_email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/sticker_3rdparty_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/sticker_3rdparty_privacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/sticker_3rdparty_wa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/sticker_3rdparty_web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/sticker_3rdparty_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/sticker_3rdparty_added.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/sticker_3rdparty_email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/sticker_3rdparty_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/sticker_3rdparty_privacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/sticker_3rdparty_wa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/sticker_3rdparty_web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/btn_green_normal.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/btn_green_pressed.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/sticker_3rdparty_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/sticker_3rdparty_added.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/sticker_3rdparty_email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/sticker_3rdparty_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/sticker_3rdparty_privacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/sticker_3rdparty_wa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/sticker_3rdparty_web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/sticker_error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/sticker_3rdparty_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/sticker_3rdparty_added.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/sticker_3rdparty_email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/sticker_3rdparty_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/sticker_3rdparty_privacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/sticker_3rdparty_wa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/sticker_3rdparty_web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/btn_green.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_entry.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sticker_pack_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sticker_pack_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sticker_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sticker_pack_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sticker_pack_list_item_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sticker_packs_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/refs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="271201411">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06d9b872-d435-42ed-ad0a-4a5b80446043" name="Default Changelist" comment="" />
+      <created>1549110999826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549110999826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32955465" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Assistant" weight="0.3360324" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

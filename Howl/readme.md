@@ -4,14 +4,14 @@ This app is still under development. One man Project so it is quiet hard, will r
 
 #Points about This app:
 
-> This does not use trackers to spy on your texts
+-This does not use trackers to spy on your texts
 
-> You can add stickers as you wish
+-You can add stickers as you wish
 
-> Google Pay request and pay options
+-Google Pay request and pay options
 
-> Group Fund Raising options available
+-Group Fund Raising options available
 
-> User defined themes
+-User defined themes
 
-> Absolutely Free (Atleast For now)
+-Absolutely Free (Atleast For now)

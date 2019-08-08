@@ -1,6 +1,6 @@
 This is a new messaging app.
 
-###### This app is still under development. One man Project so it is quiet hard, will release once done.
+**This app is still under development. One man Project so it is quiet hard, will release once done.**
 
 # Points about This app:
 

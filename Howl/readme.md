@@ -1,4 +1,4 @@
-This is a messaging app.
+# Just Another Messenger 
 
 **This app is still under development. One man Project so it is quiet hard, will release once done.**
 

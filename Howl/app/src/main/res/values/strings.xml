@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Howl</string>
+    <string name="number_hint">Enter Number</string>
+    <string name="otp_hint">OTP</string>
+    <string name="verify_btn">VERIFY</string>
+    <string name="logout">LOGOUT</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+</resources>

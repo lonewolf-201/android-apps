@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983727769383",
+    "firebase_url": "https://howl-24b97.firebaseio.com",
+    "project_id": "howl-24b97",
+    "storage_bucket": "howl-24b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983727769383:android:42108cc141cb1bc0",
+        "android_client_info": {
+          "package_name": "apps.lonewolf.howl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983727769383-snila3ta4dali3at7c5bjavs4mhvnc7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.lonewolf.howl",
+            "certificate_hash": "54f1fccd1fb618ff2b0a9607edccfa537d63a556"
+          }
+        },
+        {
+          "client_id": "983727769383-5n5p8cb4e6uijr8l5qda4ksjvbirs1c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtee_iTylI8cLszNwXuHOWpC5bhNvRuLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983727769383-5n5p8cb4e6uijr8l5qda4ksjvbirs1c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

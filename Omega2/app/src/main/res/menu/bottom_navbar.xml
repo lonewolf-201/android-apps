@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_nb"
+        android:icon="@drawable/home_purple"
+        android:title="@string/home_nb"/>
+
+    <item
+        android:id="@+id/search_nb"
+        android:icon="@drawable/search_purple"
+        android:title="@string/search_nb"/>
+
+    <item
+        android:id="@+id/library_nb"
+        android:icon="@drawable/playlist_purple"
+        android:title="@string/library_nb"/>
+
+    <item
+        android:id="@+id/settings_nb"
+        android:icon="@drawable/settings_purple"
+        android:title="@string/settings_nb"/>
+
+</menu>

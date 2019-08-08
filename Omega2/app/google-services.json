@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260463130790",
+    "firebase_url": "https://omega-244300.firebaseio.com",
+    "project_id": "omega-244300",
+    "storage_bucket": "omega-244300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260463130790:android:f691cf2ec6fe668e",
+        "android_client_info": {
+          "package_name": "apps.lonewolf.omega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260463130790-ktgim0bggkl9rad8uihpdmv2k2r6jttr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.lonewolf.omega",
+            "certificate_hash": "54f1fccd1fb618ff2b0a9607edccfa537d63a556"
+          }
+        },
+        {
+          "client_id": "260463130790-b9vkuod6g3bu9n1p8oumo9lft3t20ebh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk74VNJZ6cmRVh0_p1VK1XXV8ipfi_kZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260463130790-b9vkuod6g3bu9n1p8oumo9lft3t20ebh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

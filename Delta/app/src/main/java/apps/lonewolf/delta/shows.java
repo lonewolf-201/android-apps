@@ -125,9 +125,7 @@ public class shows extends AppCompatActivity {
                 text.setText(urls);
             }
             ArrayAdapter<String> ar = new ArrayAdapter<>(context,android.R.layout.simple_list_item_1,names);
-            //ArrayAdapter<String> br = new ArrayAdapter<>(context,android.R.layout.simple_list_item_2,urlitems);
             show.setAdapter(ar);
-            //show.setAdapter(br);
         }
 
         @Override

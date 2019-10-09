@@ -9,6 +9,7 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 import android.Manifest;
 import android.app.Dialog;
+import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
@@ -26,6 +27,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+
+import apps.lonewolf.delta.fragment.DownloadManager;
 import apps.lonewolf.delta.fragment.ListFragment;
 
 
@@ -59,6 +62,16 @@ public class home extends AppCompatActivity implements NavigationView.OnNavigati
         }
         lister lister = new lister(loader());
         lister.execute();
+        Intent i = getIntent();
+        String s = "";
+        if(i!=null) {
+            s = i.getStringExtra("Dm");
+            if(s!=null) {
+                if (s.equals("download")) {
+                    getSupportFragmentManager().beginTransaction().replace(R.id.frag_cont, new DownloadManager()).commit();
+                }
+            }
+        }
     }
 
 
@@ -154,6 +167,10 @@ public class home extends AppCompatActivity implements NavigationView.OnNavigati
                 });
                 dialog.show();
                 dialog.getWindow().setAttributes(lp);
+                break;
+            case R.id.download:
+                getSupportFragmentManager().beginTransaction().replace(R.id.frag_cont,
+                        new DownloadManager()).commit();
                 break;
         }
         drawer.closeDrawer(GravityCompat.START);

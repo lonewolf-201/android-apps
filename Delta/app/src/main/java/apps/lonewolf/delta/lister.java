@@ -32,7 +32,7 @@ public class lister extends AsyncTask<String, Integer, ArrayList<String>> {
                 Document doc = Jsoup.connect(url).get();
                 Elements links = doc.getElementsByTag("a");
                 for(Element link : links){
-                    urls.add(link.text());
+                    urls.add(link.attr("href"));
                     Log.i("ok dood",link.text());
                 }
             }catch (IOException io){
@@ -56,9 +56,7 @@ public class lister extends AsyncTask<String, Integer, ArrayList<String>> {
                 fis.write(b);
                 fis.close();
             }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
         super.onPostExecute(showItems);

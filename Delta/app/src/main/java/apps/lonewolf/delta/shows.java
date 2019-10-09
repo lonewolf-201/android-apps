@@ -1,13 +1,9 @@
 package apps.lonewolf.delta;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import android.app.Activity;
 import android.content.Context;
-import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.text.Layout;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
@@ -16,20 +12,14 @@ import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.DocumentType;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
 import java.io.IOException;
 import java.util.ArrayList;
 
-import apps.lonewolf.delta.Items.urlitem;
-
-public class shows extends AppCompatActivity {
-
+public class shows extends AppCompatActivity{
     ListView show;
     TextView text;
     ProgressBar progressBar;
@@ -55,7 +45,12 @@ public class shows extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 String suffix = show.getItemAtPosition(position).toString();
-                if(!suffix.equals("../")) {
+                Toast.makeText(shows.this, suffix, Toast.LENGTH_SHORT).show();
+                if(suffix.endsWith(".mp4") || (suffix.endsWith(".mkv"))){
+                    r=r+suffix;
+                    opendialog(suffix,r);
+                }
+                else if(!suffix.equals("../") && (suffix.endsWith("/"))) {
                     r = r + suffix;
                     pagerLoader n = new pagerLoader(r, shows.this);
                     n.execute();
@@ -63,7 +58,10 @@ public class shows extends AppCompatActivity {
             }
         });
     }
-
+    public void opendialog(String filename,String u){
+        dialogBuild build = new dialogBuild(filename,u);
+        build.show(getSupportFragmentManager(),"action dialog");
+    }
     @Override
     public void onBackPressed() {
         String res = text.getText().toString();
@@ -75,6 +73,7 @@ public class shows extends AppCompatActivity {
             n = res.lastIndexOf('/');
             res = res.substring(0,n+1);
             pagerLoader pg = new pagerLoader(res,this);
+            text.setText(res);
             pg.execute();
         }
     }
@@ -82,7 +81,6 @@ public class shows extends AppCompatActivity {
     private class pagerLoader extends AsyncTask<String,Boolean, ArrayList<String>>{
         String urls;
         Context context;
-        ArrayList<String> names = new ArrayList<>();
         public pagerLoader(String urls,Context context){
             this.urls = urls;
             this.context = context;
@@ -90,7 +88,6 @@ public class shows extends AppCompatActivity {
         @Override
         protected void onPreExecute() {
             super.onPreExecute();
-            names.clear();
             progressBar.setVisibility(View.VISIBLE);
         }
 
@@ -102,9 +99,7 @@ public class shows extends AppCompatActivity {
                 Elements links = doc.getElementsByTag("a");
                 for(Element link:links){
                     String s= link.attr("href");
-                    String r = link.text();
                     item.add(s);
-                    names.add(r);
                 }
             }catch (IOException io){
                 if(io.toString().contains("404")){
@@ -119,12 +114,12 @@ public class shows extends AppCompatActivity {
         protected void onPostExecute(ArrayList<String> urlitems) {
             super.onPostExecute(urlitems);
             progressBar.setVisibility(View.INVISIBLE);
-            if(urls==url){
+            if(urls.equals(url)){
                 text.setText(url);
             }else{
                 text.setText(urls);
             }
-            ArrayAdapter<String> ar = new ArrayAdapter<>(context,android.R.layout.simple_list_item_1,names);
+            ArrayAdapter<String> ar = new ArrayAdapter<>(context,android.R.layout.simple_list_item_1,urlitems);
             show.setAdapter(ar);
         }
 
